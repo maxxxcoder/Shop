@@ -21,6 +21,7 @@ namespace StoredProceduresTask.Models.Weather
         public string Sources { get; set; }
         public string MobileLink { get; set; }
         public string Link { get; set; }
+        public float HoursOfSun { get; set; }
 
     }
 }
